@@ -1,13 +1,13 @@
 ---
-title: Likhit Jap — Privacy Policy & Terms of Use
-description: Privacy Policy and Terms of Use for the Likhit Jap iOS app.
+title: Likhita Mantra Jaap — Privacy Policy & Terms of Use
+description: Privacy Policy and Terms of Use for the Likhita Mantra Jaap iOS app.
 ---
 
-# Likhit Jap (लिखित जप) — Privacy Policy & Terms of Use
+# Likhita Mantra Jaap (लिखित जप) — Privacy Policy & Terms of Use
 
 _Last updated: 2026-07-06_
 
-Likhit Jap ("the app") is a devotional *likhita japa* writing companion and digital mala counter
+Likhita Mantra Jaap ("the app") is a devotional *likhita japa* writing companion and digital mala counter
 for iOS, operated as an independent project by **Praneel Bhatia**. This page contains both the
 Privacy Policy and the Terms of Use for the app.
 
@@ -23,7 +23,7 @@ the controls available to you.
 
 ### Where your data lives
 
-Likhit Jap has **no account system, no sign-up, and no backend server**. Everything you do in the
+Likhita Mantra Jaap has **no account system, no sign-up, and no backend server**. Everything you do in the
 app — every sankalpa (intention) you set, every stroke you write, every mala count and sitting you
 log — is stored **locally on your iPhone** using Apple's SwiftData framework. The developer never
 receives or sees this data.
@@ -41,13 +41,13 @@ The following is stored on-device only:
 None of this is your name, email, phone number, or any other identifying information — the app
 never asks for any of it.
 
-**Device backups:** because Likhit Jap uses no special backup exclusion, this on-device data is
+**Device backups:** because Likhita Mantra Jaap uses no special backup exclusion, this on-device data is
 included in your iPhone's standard iCloud or computer backup, the same as any other app's data —
-it is not separately transmitted anywhere by Likhit Jap itself.
+it is not separately transmitted anywhere by Likhita Mantra Jaap itself.
 
 ### Advertising (Google AdMob)
 
-Likhit Jap shows interstitial ads between writing sessions, and an optional rewarded video ad you
+Likhita Mantra Jaap shows interstitial ads between writing sessions, and an optional rewarded video ad you
 can choose to watch for a temporary (3-hour) ad-free window. Both are served through **Google's
 AdMob** (Google Mobile Ads SDK).
 
@@ -57,7 +57,7 @@ app/device information. This is governed by Google's own privacy policy:
 <https://policies.google.com/privacy>, and Google's AdMob policies:
 <https://support.google.com/admob/answer/6128543>.
 
-Likhit Jap does not currently request App Tracking Transparency (ATT) authorization, so ads are
+Likhita Mantra Jaap does not currently request App Tracking Transparency (ATT) authorization, so ads are
 served on a non-personalized/contextual basis rather than using your Apple advertising identifier
 (IDFA) for cross-app tracking. If a future version adds personalized ads, iOS will show you the
 standard system tracking-permission prompt before anything changes, and this policy will be
@@ -80,8 +80,8 @@ policy.
 ### In-app purchases (Seva / dāna)
 
 The Settings screen offers an entirely optional "seva" (devotional offering/tip) purchase — a
-small, consumable in-app purchase handled by **Apple's App Store** via StoreKit. Likhit Jap never
-sees or stores your payment details; Apple processes the transaction and Likhit Jap only learns
+small, consumable in-app purchase handled by **Apple's App Store** via StoreKit. Likhita Mantra Jaap never
+sees or stores your payment details; Apple processes the transaction and Likhita Mantra Jaap only learns
 that a purchase succeeded, so it can show a thank-you message. A seva purchase does not unlock or
 change any app functionality — it is purely a voluntary offering.
 
@@ -91,7 +91,7 @@ The optional morning reminder and "gentle nudge" are **local, on-device notifica
 through Apple's UserNotifications framework. They are not push notifications — no server or third
 party is involved in triggering them, and no notification content ever leaves your device.
 
-### What Likhit Jap does NOT do
+### What Likhita Mantra Jaap does NOT do
 
 - No account, login, or sign-up of any kind
 - No first-party analytics or crash-reporting SDKs
@@ -107,8 +107,8 @@ party is involved in triggering them, and no notification content ever leaves yo
 - **Turn off chant / haptics / guide script:** Settings → While writing
 - **Avoid ads for a while:** watch the optional rewarded ad in Settings → Seva for a 3-hour
   ad-free window
-- **Revoke notification permission:** iOS Settings → Likhit Jap → Notifications
-- **Erase everything:** Likhit Jap does not yet have an in-app "delete all data" or export
+- **Revoke notification permission:** iOS Settings → Likhita Mantra Jaap → Notifications
+- **Erase everything:** Likhita Mantra Jaap does not yet have an in-app "delete all data" or export
   feature. Deleting the app from your device removes its entire local data store and preferences
   immediately.
 
@@ -124,7 +124,7 @@ party is involved in triggering them, and no notification content ever leaves yo
   resolve your query and is then deleted.
 - **With Google:** data collected for ad serving is retained by Google under its own retention
   policy (<https://policies.google.com/technologies/retention>).
-- **Revoking consent:** notification permission can be revoked in iOS Settings → Likhit Jap →
+- **Revoking consent:** notification permission can be revoked in iOS Settings → Likhita Mantra Jaap →
   Notifications at any time. Ad-related choices can be exercised through iOS Settings → Privacy &
   Security → Apple Advertising / Tracking, and through Google's My Ad Center
   (<https://myadcenter.google.com>). To stop all processing by the app, delete the app.
@@ -140,7 +140,7 @@ outside your country, subject to Google's own safeguards for international trans
 ### Your rights (GDPR / EEA / UK)
 
 If you are located in the European Economic Area, the United Kingdom, or another jurisdiction
-with comparable data-protection rights, and to the extent Likhit Jap processes any personal data
+with comparable data-protection rights, and to the extent Likhita Mantra Jaap processes any personal data
 about you (chiefly through Google's ad serving, described above), you have the right to:
 
 - **Access** a copy of that data
@@ -150,7 +150,7 @@ about you (chiefly through Google's ad serving, described above), you have the r
 - **Data portability**, where applicable
 - **Lodge a complaint** with your local data-protection authority
 
-Because almost everything Likhit Jap handles lives only on your device, most of these are
+Because almost everything Likhita Mantra Jaap handles lives only on your device, most of these are
 self-service (see "Your controls" above). For anything relating to data Google may hold from ad
 serving, contact the developer at the email below, or Google directly via
 <https://policies.google.com/privacy>.
@@ -176,7 +176,7 @@ below.
 
 ### Your rights (United States)
 
-Likhit Jap does not sell personal information, and does not share personal information for
+Likhita Mantra Jaap does not sell personal information, and does not share personal information for
 cross-context behavioral advertising as defined by the California Consumer Privacy Act (as
 amended) and similar US state privacy laws — ads are served without ATT authorization and without
 using your advertising identifier for cross-app profiles. If you have questions about data Google
@@ -184,7 +184,7 @@ processes for ad serving, see Google's privacy policy or contact the developer b
 
 ### Children and minors
 
-Likhit Jap contains devotional writing-practice content suitable for a general audience and
+Likhita Mantra Jaap contains devotional writing-practice content suitable for a general audience and
 carries no restricted-content age rating, but it is not directed at children. The app does not
 knowingly collect personal data from children and — since it has no account system — has no way
 to knowingly identify a user's age at all; it never seeks (and has no mechanism to seek) the
@@ -201,13 +201,13 @@ If this policy changes materially, the "Last updated" date above will change to 
 
 ## Terms of Use
 
-These Terms of Use ("Terms") govern your use of Likhit Jap (the "App"), operated by **Praneel
+These Terms of Use ("Terms") govern your use of Likhita Mantra Jaap (the "App"), operated by **Praneel
 Bhatia** ("we", "us", "the developer"). By downloading, installing, or using the App, you agree to
 these Terms. If you do not agree, please do not use the App.
 
 ### 1. Description of the app
 
-Likhit Jap is a devotional companion app for *likhita japa* (writing a deity's name by hand as a
+Likhita Mantra Jaap is a devotional companion app for *likhita japa* (writing a deity's name by hand as a
 form of repetition) and a digital mala/bead counter, with practice-tracking statistics. The App is
 a personal practice tool. It is **not** a religious authority, a substitute for guidance from a
 qualified teacher or priest, and it makes no claim about the spiritual, religious, or health
@@ -253,7 +253,7 @@ and the advertiser or Google.
 
 ### 7. Intellectual property
 
-The Likhit Jap name, app design, source code, and original artwork are the property of the
+The Likhita Mantra Jaap name, app design, source code, and original artwork are the property of the
 developer and protected by applicable intellectual property laws. Deity names, traditional
 mantras, and devotional concepts referenced in the App are part of shared cultural and religious
 heritage and are not claimed as the developer's property.
@@ -346,4 +346,4 @@ protection of mandatory provisions of the law of your country of residence.
 Questions about this Privacy Policy or these Terms of Use, or requests relating to your rights
 above:
 
-**praneel.bhatia@gmail.com**
+**praneel.business@gmail.com**
