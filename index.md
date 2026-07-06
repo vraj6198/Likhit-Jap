@@ -63,6 +63,20 @@ served on a non-personalized/contextual basis rather than using your Apple adver
 standard system tracking-permission prompt before anything changes, and this policy will be
 updated to match.
 
+**EEA, UK, and Switzerland:** the app does not currently show a consent dialog. In regions where
+consent is required for ad personalization, Google serves ads in its limited / non-personalized
+modes, which do not use advertising identifiers to personalize ads. If a future version adds a
+consent dialog (Google's User Messaging Platform), you will be able to review and change your ad
+privacy choices in the app at any time, and this policy will be updated to match. You can read
+about how Google uses information from apps that use its services at
+<https://policies.google.com/technologies/partner-sites>.
+
+**Third-party protection:** the only third parties that receive any data through the app are
+Google (ad serving) and Apple (payments, notifications, and the App Store, as part of iOS
+itself). Both are contractually and legally required to protect that data under their own privacy
+policies and applicable law, providing protection at least equal to what is described in this
+policy.
+
 ### In-app purchases (Seva / dāna)
 
 The Settings screen offers an entirely optional "seva" (devotional offering/tip) purchase — a
@@ -98,6 +112,31 @@ party is involved in triggering them, and no notification content ever leaves yo
   feature. Deleting the app from your device removes its entire local data store and preferences
   immediately.
 
+### Data retention and deletion
+
+- **On your device:** your sankalpas, strokes, sittings, and preferences are retained on your
+  device until you delete them (individually, in the app) or delete the app itself. Deleting the
+  app permanently removes the entire local data store and preferences at once. The developer
+  holds no copy and therefore retains nothing after you delete the app (any copy inside your own
+  iCloud or computer backup is under your control, per Apple's backup settings).
+- **With the developer:** the only personal data the developer ever holds is what you choose to
+  send by email (see Contact below). Such correspondence is kept only as long as needed to
+  resolve your query and is then deleted.
+- **With Google:** data collected for ad serving is retained by Google under its own retention
+  policy (<https://policies.google.com/technologies/retention>).
+- **Revoking consent:** notification permission can be revoked in iOS Settings → Likhit Jap →
+  Notifications at any time. Ad-related choices can be exercised through iOS Settings → Privacy &
+  Security → Apple Advertising / Tracking, and through Google's My Ad Center
+  (<https://myadcenter.google.com>). To stop all processing by the app, delete the app.
+
+### Security
+
+All app data lives inside the app's iOS sandbox and is protected by iOS device encryption (Apple
+Data Protection) when your device is locked with a passcode. The app makes no network connections
+of its own other than those made by the Google Mobile Ads SDK (over HTTPS) and Apple's StoreKit.
+Because ad serving is performed by Google, data Google collects may be processed on servers
+outside your country, subject to Google's own safeguards for international transfers.
+
 ### Your rights (GDPR / EEA / UK)
 
 If you are located in the European Economic Area, the United Kingdom, or another jurisdiction
@@ -116,13 +155,43 @@ self-service (see "Your controls" above). For anything relating to data Google m
 serving, contact the developer at the email below, or Google directly via
 <https://policies.google.com/privacy>.
 
+### Your rights (India — DPDP Act)
+
+The app is operated from India, and to the extent it processes any digital personal data, it does
+so in accordance with India's **Digital Personal Data Protection Act, 2023** and the Digital
+Personal Data Protection Rules, 2025. As a Data Principal you have the right to:
+
+- **Access** a summary of any personal data processed and the processing activities involved
+- **Correction and erasure** of your personal data
+- **Grievance redressal** — raise any grievance with the developer using the contact below, and
+  it will be responded to within the timelines prescribed under the Rules; if unresolved, you may
+  approach the **Data Protection Board of India**
+- **Nominate** another individual to exercise these rights on your behalf in the event of death
+  or incapacity
+
+In practice, because the app has no account system and the developer never receives your practice
+data, most of these rights are self-service through the controls above. The developer's contact
+for all data-protection questions and grievances is the email address in the Contact section
+below.
+
+### Your rights (United States)
+
+Likhit Jap does not sell personal information, and does not share personal information for
+cross-context behavioral advertising as defined by the California Consumer Privacy Act (as
+amended) and similar US state privacy laws — ads are served without ATT authorization and without
+using your advertising identifier for cross-app profiles. If you have questions about data Google
+processes for ad serving, see Google's privacy policy or contact the developer below.
+
 ### Children and minors
 
 Likhit Jap contains devotional writing-practice content suitable for a general audience and
-carries no restricted-content age rating. The app does not knowingly collect personal data from
-children and — since it has no account system — has no way to knowingly identify a user's age at
-all. If you believe a child has used the app in a way that concerns you, contact the developer
-below.
+carries no restricted-content age rating, but it is not directed at children. The app does not
+knowingly collect personal data from children and — since it has no account system — has no way
+to knowingly identify a user's age at all; it never seeks (and has no mechanism to seek) the
+verifiable parental consent that laws such as India's DPDP Act or the US COPPA require before
+collecting a child's data, because it collects none. If you believe a child has used the app in a
+way that concerns you (for example, interacted with ads), contact the developer below and the
+concern will be addressed, including by raising it with Google where it relates to ad serving.
 
 ### Changes to this policy
 
@@ -213,11 +282,62 @@ We may update these Terms from time to time. Material changes will be reflected 
 "Last updated" date above. Continued use of the App after changes take effect constitutes
 acceptance of the revised Terms.
 
-### 12. Governing law
+### 12. Acceptable use
+
+You agree not to: copy, modify, distribute, sell, rent, or sublicense the App or any part of it;
+reverse-engineer or attempt to extract the source code of the App except to the extent applicable
+law expressly permits; use the App in any way that violates applicable law; or interfere with or
+attempt to defraud the App's advertising (for example, by generating fraudulent ad impressions or
+clicks).
+
+### 13. Apple App Store terms
+
+These Terms are concluded between you and the developer only — **not** with Apple Inc. ("Apple"),
+and Apple is not responsible for the App or its content. You acknowledge and agree that:
+
+- **Maintenance and support:** Apple has no obligation whatsoever to furnish any maintenance or
+  support services for the App. Any support is provided by the developer via the contact below.
+- **Warranty:** in the event of any failure of the App to conform to an applicable warranty, you
+  may notify Apple, and Apple will refund the purchase price of the App (if any) to you; to the
+  maximum extent permitted by law, Apple has no other warranty obligation with respect to the App.
+- **Product claims:** the developer, not Apple, is responsible for addressing any claims by you
+  or a third party relating to the App or your possession or use of it, including product
+  liability claims, claims that the App fails to conform to legal or regulatory requirements, and
+  claims under consumer-protection, privacy, or similar legislation.
+- **Intellectual property claims:** in the event of any third-party claim that the App infringes
+  that third party's intellectual property rights, the developer, not Apple, is responsible for
+  the investigation, defense, settlement, and discharge of the claim.
+- **Legal compliance:** you represent and warrant that you are not located in a country subject
+  to a US Government embargo or designated as a "terrorist supporting" country, and that you are
+  not listed on any US Government list of prohibited or restricted parties.
+- **Third-party beneficiary:** Apple and its subsidiaries are third-party beneficiaries of these
+  Terms, and upon your acceptance, Apple has the right (and is deemed to have accepted the right)
+  to enforce these Terms against you as a third-party beneficiary.
+- You must also comply with any applicable third-party terms of agreement (for example, your
+  wireless data service agreement) when using the App.
+
+### 14. Indemnification
+
+To the extent permitted by applicable law, you agree to indemnify and hold the developer harmless
+from claims, damages, and reasonable expenses (including legal fees) arising out of your breach
+of these Terms or your misuse of the App. This does not limit any rights you have under mandatory
+consumer-protection law.
+
+### 15. General
+
+If any provision of these Terms is held invalid or unenforceable, the remaining provisions remain
+in full force and effect. The developer's failure to enforce any right or provision is not a
+waiver of it. You may not assign these Terms; the developer may assign them in connection with a
+transfer of the App. These Terms, together with the Privacy Policy above, constitute the entire
+agreement between you and the developer regarding the App. Nothing in these Terms limits any
+non-waivable rights you have as a consumer under the laws of your place of residence.
+
+### 16. Governing law
 
 These Terms are governed by the laws of India, without regard to conflict-of-law principles. Any
 dispute arising out of or relating to these Terms or the App shall be subject to the exclusive
-jurisdiction of the courts of India.
+jurisdiction of the courts of India. This choice of law and forum does not deprive you of the
+protection of mandatory provisions of the law of your country of residence.
 
 ---
 
